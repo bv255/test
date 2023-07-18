@@ -1,0 +1,19 @@
+body {
+    margin:0;
+}
+
+.banner {
+    background-color: grey;
+}
+
+.banner h1 {
+    color:white;
+    text-align: center;
+}
+
+.data-entry {
+    width:80%;
+    margin:auto;
+}
+
+
